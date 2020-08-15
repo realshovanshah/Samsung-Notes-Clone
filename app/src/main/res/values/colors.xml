@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#ffd24d</color>
+    <color name="colorPrimary">#000</color>
     <color name="colorPrimaryDark">#e6ac00</color>
     <color name="colorAccent">#d9d9d9</color>
 
@@ -11,5 +11,7 @@
     <color name="darkGrey">#a2a2a2</color>
     <color name="black">#000</color>
     <color name="white">#fff</color>
+
+    <color name="samsungOrange">#f15e3f</color>
 
 </resources>
